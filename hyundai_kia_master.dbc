@@ -1574,5 +1574,3 @@ BO_ 1680 CLU2: 8 XXX
  SG_ CF_Clu_AutoLightLevel : 58|2@1+ (1,0) [0|3] "" XXX
  SG_ CF_Clu_SunRoofOpenState : 60|1@1+ (1,0) [0|1] "" XXX
 
-BO_ 272 NEW_MSG_1: 8 XXX
- SG_ NEW_SIGNAL_1 : 23|8@0+ (1,0) [0|255] "" XXX
