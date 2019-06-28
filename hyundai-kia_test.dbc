@@ -2169,7 +2169,7 @@ BO_ 1263 TP_CLU_IBOX_HU: 8 CLU
    SG_ Byte6_Data_4EF : 55|8@0+ (1,0) [0|0] ""  H_U
    SG_ Byte7_Data_4EF : 63|8@0+ (1,0) [0|0] ""  H_U
 
-BO_ 1264 CLU1: 8 XXX
+BO_ 1265 CLU1: 8 XXX
    SG_ CF_Clu_CruiseSwState : 0|3@1+ (1,0) [0|7] "" XXX
    SG_ CF_Blr_MaxStat : 3|1@1+ (1,0) [0|1] "" XXX
    SG_ CF_Clu_SldMainSW : 4|1@1+ (1,0) [0|1] "" XXX
@@ -2186,7 +2186,7 @@ BO_ 1264 CLU1: 8 XXX
    SG_ R_TqAcnOutC : 32|8@1+ (1,0) [0|51] "Nm" XXX
    SG_ CF_Clu_Odometer : 40|24@1+ (0.1,0) [0|1.67772e+006] "km" XXX
 
-BO_ 1265 CLU11: 4 CLU
+BO_ 1264 CLU11: 4 CLU
    SG_ CF_Clu_CruiseSwState : 0|3@1+ (1.0,0.0) [0.0|7.0] ""  EMS,LDWS_LKAS,SCC
    SG_ CF_Clu_CruiseSwMain : 3|1@1+ (1.0,0.0) [0.0|1.0] ""  EMS,LDWS_LKAS,SCC
    SG_ CF_Clu_SldMainSW : 4|1@1+ (1.0,0.0) [0.0|1.0] ""  EMS
